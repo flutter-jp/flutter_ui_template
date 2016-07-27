@@ -1,4 +1,7 @@
 {
+  "scripts":{
+    "start":"ionic serve"
+  },
   "dependencies": {
     "@angular/common": "2.0.0-rc.3",
     "@angular/compiler": "2.0.0-rc.3",
