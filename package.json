@@ -1,6 +1,8 @@
 {
   "scripts":{
-    "start":"ionic serve"
+    "start":"ionic serve",
+    "build":"ionic platorm add ios",
+    "ios":"ionic emulate ios"
   },
   "dependencies": {
     "@angular/common": "2.0.0-rc.3",
